@@ -1,0 +1,2 @@
+To update context:
+Scaffold-DbContext "Server=.\sqlexpress;Database=Aid;Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Contexts\AidContext -OutputDir Models\Aid -f
